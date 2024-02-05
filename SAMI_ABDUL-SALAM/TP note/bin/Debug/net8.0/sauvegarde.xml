@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dossier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dossiers>
+    <Dossier>
+      <dossiers />
+      <contacts />
+      <Nom>wesh</Nom>
+      <DateCreationDossier>2024-02-05T21:43:58.4594148+01:00</DateCreationDossier>
+      <DateModifDossier>2024-02-05T21:43:58.4594219+01:00</DateModifDossier>
+    </Dossier>
+    <Dossier>
+      <dossiers />
+      <contacts />
+      <Nom>wesh2</Nom>
+      <DateCreationDossier>2024-02-05T21:44:52.8213221+01:00</DateCreationDossier>
+      <DateModifDossier>2024-02-05T21:44:52.8213358+01:00</DateModifDossier>
+    </Dossier>
+  </dossiers>
+  <contacts />
+  <Nom>root</Nom>
+  <DateCreationDossier>2024-02-05T21:43:52.3427797+01:00</DateCreationDossier>
+  <DateModifDossier>2024-02-05T21:43:52.3472348+01:00</DateModifDossier>
+</Dossier>
