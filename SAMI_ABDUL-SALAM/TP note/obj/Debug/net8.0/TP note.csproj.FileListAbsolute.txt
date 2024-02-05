@@ -1,0 +1,42 @@
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\bin\Debug\net8.0\TP note.exe
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\bin\Debug\net8.0\TP note.deps.json
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\bin\Debug\net8.0\TP note.runtimeconfig.json
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\bin\Debug\net8.0\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\bin\Debug\net8.0\TP note.pdb
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.AssemblyInfoInputs.cache
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.AssemblyInfo.cs
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.csproj.CoreCompileInputs.cache
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\refint\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.pdb
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\TP note.genruntimeconfig.cache
+C:\Users\SamiG\OneDrive\Bureau\Programmation\ZZ2\Dev .NET\TP note\TP note\obj\Debug\net8.0\ref\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\bin\Debug\net8.0\TP note.exe
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\bin\Debug\net8.0\TP note.deps.json
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\bin\Debug\net8.0\TP note.runtimeconfig.json
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\bin\Debug\net8.0\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\bin\Debug\net8.0\TP note.pdb
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.AssemblyInfoInputs.cache
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.AssemblyInfo.cs
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.csproj.CoreCompileInputs.cache
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\refint\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.pdb
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\TP note.genruntimeconfig.cache
+C:\Users\SamiG\OneDrive\Bureau\ABDUL-SALAM TP\TP note\obj\Debug\net8.0\ref\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\bin\Debug\net8.0\TP note.exe
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\bin\Debug\net8.0\TP note.deps.json
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\bin\Debug\net8.0\TP note.runtimeconfig.json
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\bin\Debug\net8.0\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\bin\Debug\net8.0\TP note.pdb
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.AssemblyInfoInputs.cache
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.AssemblyInfo.cs
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.csproj.CoreCompileInputs.cache
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\refint\TP note.dll
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.pdb
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\TP note.genruntimeconfig.cache
+C:\Users\SamiG\OneDrive\Bureau\SAMI_ABDUL-SALAM\TP note\obj\Debug\net8.0\ref\TP note.dll
